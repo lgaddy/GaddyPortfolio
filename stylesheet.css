@@ -1,0 +1,28 @@
+body{background-color:#b0c4de;
+}
+
+nav{
+    background-color:##663399;
+}
+nav:hover{
+    background-color:#778899;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center:
+}
+img{
+    -webkit-box-shadow: 5px 5px 5px 5px #000000;
+    -webkit-border-radius; 20px;
+    padding: 5px;
+ }
+ form{
+ 	text-align: center;
+ 	-webkit-border-radius;20px;
+ }
+nav{
+	text-align: left;
+}
+ 
